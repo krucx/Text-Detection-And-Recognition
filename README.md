@@ -11,7 +11,7 @@
 
 ## Text-Recognition
 #### Images were cropped using predicted bounding boxes and preprocessed using thresholding
-#### The text is then recognized from the cropped images.
+#### The text is then recognized from the cropped images
 
 ## Web Application
 #### Flask app is created to deploy the model
